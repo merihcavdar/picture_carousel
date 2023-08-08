@@ -1,16 +1,11 @@
-# picture_carousel
+# Picture Carousel
 
-A new Flutter project.
+an app for showing pictures in carousel
 
-## Getting Started
+## screenshot
+![picture_carousel](https://github.com/merihcavdar/picture_carousel/assets/84540989/33972e0f-dbeb-4907-8b1b-c23d1d127b20)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## features
+- 3rd party package usage called "carousel_slider"
+- List usage for holding the path the pictures in assets/ folder
+- MediaQuery.of(context) usage for getting the size of the device
